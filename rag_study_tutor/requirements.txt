@@ -1,0 +1,9 @@
+numpy>=1.24
+requests>=2.31
+python-dotenv>=1.0
+pypdf>=4.0
+streamlit>=1.30
+pytest>=8.0
+
+# Optional, better retrieval quality (large download, install only if you want it):
+# sentence-transformers>=2.6

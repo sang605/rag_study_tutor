@@ -1,0 +1,12 @@
+.venv/
+venv/
+__pycache__/
+*.pyc
+.env
+storage/
+.pytest_cache/
+.ipynb_checkpoints/
+
+# your personal notes stay off GitHub; the sample file is kept
+data/*
+!data/sample_dbms_notes.md
