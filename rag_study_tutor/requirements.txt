@@ -8,3 +8,6 @@ pytest>=8.0
 # Optional, better retrieval quality (large download, install only if you want it):
 # sentence-transformers>=2.6
 hello this is something i have added.
+it is required.
+we are now writing files and folder.
+
